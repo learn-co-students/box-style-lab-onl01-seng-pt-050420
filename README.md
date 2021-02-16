@@ -4,7 +4,7 @@
 
 1. Practice writing and employing box styling with CSS
 2. Explore `border`, `box-shadow`, `background`, and the `linear-gradient()` CSS function
-
+ 
 
 ## Introduction
 
